@@ -13,8 +13,36 @@ automating processes in the development or business workflow.
 
 - 🤖 I’m currently working on [building the next generation underwater robot software](https://www.missionrobotics.us)
 - 🌱 I’m currently learning AI Agent development and AI/ML in general
-- ⌨️ I am programing, or have been programing in: TypeScript, JavaScript, C++, Python, Bash, C#, Kotlin, Java
 - 🐋 Let me containerize that for you
+
+
+## Skills
+
+#### Languages
+[![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330)](https://github.com/codewihtpassion)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/codewithpassion)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/codewithpassion)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/codewithpassion)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=323330)](https://github.com/codewihtpassion)
+[![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/codewithpassion)
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/codewithpassion)
+[![Java](https://img.shields.io/badge/Java-5DACDF?style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/codewithpassion)
+
+#### Front-End Frameworks
+[![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://github.com/codewithpassion)
+[![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)](https://github.com/codewithpassion)
+[![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/codewithpassion)
+
+#### Front-End UI Components
+[![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)](https://github.com/codewithpassion)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/codewithpassion)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/codewithpassion)
+
+### DevOps
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/codewithpassion)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=323330)](https://github.com/codewithpassion)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=awslambda&logoColor=white)](https://github.com/codewithpassion)
+
 
 ## 🏆 [GitHub Profile Trophies](https://github.com/ryo-ma/github-profile-trophy)
 
