@@ -18,7 +18,7 @@ automating processes in the development or business workflow.
 
 ## 🏆 [GitHub Profile Trophies](https://github.com/ryo-ma/github-profile-trophy)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=codewithpassion&theme=onedark&rank=-B&title=MultiLanguage,LongTimeUser,Experience,Commits,PullRequest,Repositories,Issues&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy&column=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=codewithpassion&theme=onedark&rank=-B&title=MultiLanguage,LongTimeUser,Experience,Commits,PullRequest,Repositories,Issues&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy&column=4)
 
 ## And stats
 
