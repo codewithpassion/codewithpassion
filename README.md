@@ -27,7 +27,7 @@ It's currently based on a human dateset that is available, but the ultimate goal
 ### Website
 
 My [personal website](https://www.dominik-fretz.com). It's based on a react frontend with tailwind-css. Hosted on github pages with automated push via workflows.
-Check out the [repository](https://github.com/codewithpassion/website/settings).
+Check out the [repository](https://github.com/codewithpassion/website).
 
 ## Skills
 
