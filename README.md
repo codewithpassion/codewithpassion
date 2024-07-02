@@ -19,6 +19,10 @@ automating processes in the development or business workflow.
 
 ## Project 
 
+### Anthropic tool use API demo ###
+I wanted to learn how the Anthropic tool use API works to build AI agents - so I [built a demo](https://github.com/codewithpassion/typescript-anthropic-tool-use-example)!
+Also, all the examples are in python - so this one is in Typescript.
+
 ### Bone age
 
 Check out this little [ML application](https://github.com/codewithpassion/bone-age) to estiamte the age of someone, based on an x-ray of the hand. 
