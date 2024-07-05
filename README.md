@@ -17,7 +17,7 @@ automating processes in the development or business workflow.
 - 🌱 I’m currently learning AI Agent development and AI/ML in general
 - 🐋 Let me containerize that for you
 
-## Project 
+## Projects 
 
 ### Anthropic tool use API demo ###
 I wanted to learn how the Anthropic tool use API works to build AI agents - so I [built a demo](https://github.com/codewithpassion/typescript-anthropic-tool-use-example)!
@@ -36,6 +36,13 @@ It's currently based on a human dateset that is available, but the ultimate goal
 
 My [personal website](https://www.dominik-fretz.com). It's based on a react frontend with tailwind-css. Hosted on github pages with automated push via workflows.
 Check out the [repository](https://github.com/codewithpassion/website).
+
+## Articles
+- [Anthropic Tool API in TypeScript](https://www.linkedin.com/pulse/anthropic-tool-api-typescript-dominik-fretz-mgbxe/)
+
+## Videos
+- [Anthropic typescript tool use](https://youtu.be/dVuJPvopY18)
+- [Intro to LibreChat](https://youtu.be/aEc2GDXIFHc)
 
 ## Skills
 
