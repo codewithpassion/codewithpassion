@@ -19,6 +19,16 @@ automating processes in the development or business workflow.
 
 ## Projects 
 
+### RAGTIME ###
+
+Ragtime is a demo for a RAG enabled API.
+It allows you to import transcripts of a youtube channel, to then be able to query the data via an LLM.
+
+Ever wanted to talk to your favirote Youtuber? Ragtime can do that.
+
+[Ragtime](https://github.com/codewithpassion/ragtime)
+
+
 ### Anthropic tool use API demo ###
 I wanted to learn how the Anthropic tool use API works to build AI agents - so I [built a demo](https://github.com/codewithpassion/typescript-anthropic-tool-use-example)!
 Also, all the examples are in python - so this one is in Typescript.
