@@ -13,7 +13,7 @@ automating processes in the development or business workflow.
 <br/>
 <br/>
 
-- 🤖 I’m currently working on [building the next generation underwater robot software](https://www.missionrobotics.us)
+- 🤖 I’m currently working on Transforming teams to be Human/AI natives through [Harbour Edge Intelligence](https://harbouredge.ai)
 - 🌱 I’m currently learning AI Agent development and AI/ML in general
 - 🐋 Let me containerize that for you
 
