@@ -17,6 +17,14 @@ automating processes in the development or business workflow.
 - 🌱 I’m currently learning AI Agent development and AI/ML in general
 - 🐋 Let me containerize that for you
 
+
+### Website
+
+My [personal website](https://dominikfretz.com).
+My [company website](https://harbouredge.ai)
+
+
+
 ## Projects 
 
 ### RAGTIME ###
@@ -35,17 +43,6 @@ Also, all the examples are in python - so this one is in Typescript.
 
 Check out my [article about it on LinkedIn](https://www.linkedin.com/pulse/anthropic-tool-api-typescript-dominik-fretz-mgbxe/)!
 Or my [video whern writing the code](https://youtu.be/dVuJPvopY18).
-
-
-### Bone age
-
-Check out this little [ML application](https://github.com/codewithpassion/bone-age) to estiamte the age of someone, based on an x-ray of the hand. 
-It's currently based on a human dateset that is available, but the ultimate goal is to run it with Dolphin pec fins for a project with my wife.
-
-### Website
-
-My [personal website](https://www.dominik-fretz.com). It's based on a react frontend with tailwind-css. Hosted on github pages with automated push via workflows.
-Check out the [repository](https://github.com/codewithpassion/website).
 
 ## Articles
 - [Anthropic Tool API in TypeScript](https://www.linkedin.com/pulse/anthropic-tool-api-typescript-dominik-fretz-mgbxe/)
